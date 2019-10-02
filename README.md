@@ -6,4 +6,4 @@ This repositoty contains my notes on Deep Learning Specialization offer by [Deep
 * Convolutional Neural Network
 * Sequence Model and Time Series
 # Specialization Certificate
-I have successfully completed the specializaton with distinct and earned my [certificate](https://www.coursera.org/account/accomplishments/specialization/8FL4TGJWGXJA)!
+I have successfully completed the specializaton with distinct and earned my [certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/8FL4TGJWGXJA)!
